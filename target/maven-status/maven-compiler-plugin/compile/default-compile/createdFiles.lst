@@ -1,0 +1,7 @@
+com\service\CrudService.class
+com\repository\CrudRepository.class
+com\example\Application.class
+com\model\Course.class
+com\repository\CourseRepository.class
+com\configuration\AppConfiguration.class
+com\service\CourseService.class
